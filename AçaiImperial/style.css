@@ -1,0 +1,38 @@
+body {
+    background-color: blueviolet;
+
+}
+
+header {
+    text-align: center;
+
+
+}
+
+.menu ul {
+    text-align: center; /* Alinhei menu */
+}
+
+.menu ul li {
+    display: inline-block;
+    padding-right: 4px;
+    text-align: center;
+}
+
+div#benef {
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-right: 1450px;
+    text-indent: 15px;
+    
+}
+
+div#benef2 {
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+}
+

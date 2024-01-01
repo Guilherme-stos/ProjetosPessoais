@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+    text-align: center;
+}
+section {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div#res {
+    font-size: xx-large;
+    color: blue;
+}

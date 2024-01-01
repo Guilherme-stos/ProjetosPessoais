@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(0, 0, 0, 0.651);
+    color: beige;
+}
+header {
+    text-align: center;
+    background-color: lightskyblue;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 10px 10px black;
+}
+div#class {
+    margin-top: 100px;
+}
+section#dados {
+    background-color: lightskyblue;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-top: ;
+    
+
+}
+div {
+
+}
+footer {
+
+}

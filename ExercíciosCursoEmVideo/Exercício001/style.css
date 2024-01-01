@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+}
+
+header {
+    text-align: center;
+}
+section {
+    background-color: white;
+    padding: 50px;
+    border-radius: 20px;
+    width: 500px;
+    margin-inline: 350px;
+    box-shadow: 10px 10px gray;
+    text-align: center;
+}
+div#res {
+    font-size: larger;
+    color: blue;
+
+}
+footer {
+    text-align: center;
+}
